@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "crispymanya",
+  "repo": "container-esmevrw",
+  "name": "crispymanya",
+  "email": "prasadkarve4@gmail.com",
+}
